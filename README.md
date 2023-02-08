@@ -10,3 +10,5 @@ Biron is an open source soldering iron hardware based on Baxandall Oscillator. T
 ## Disclaimer
 
 This is an open source project that involves high voltage and hot surfaces. You must have enough experience to build it in real life and wear PPE, I don't want people get hurt.
+
+![result](https://user-images.githubusercontent.com/49677912/217614569-726dd97b-1ab7-452a-995a-8929e3cdaac0.png)
