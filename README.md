@@ -19,6 +19,8 @@ This is an open source project that involves high voltage and hot surfaces. You 
 
 This project follows the Ti's [DAQ system requirements](https://www.ti.com/solution/data-acquisition-daq), the control system is fully galvanized isolated from the physical and power signals.
 
+![image](https://user-images.githubusercontent.com/49677912/227743218-670e518b-6d94-4211-ab95-7ef33206d251.png)
+
 ### Power isolation
 
 I used a minimal push-pull converter for the DC/DC part:
