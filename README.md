@@ -29,6 +29,6 @@ I used a minimal push-pull converter for the DC/DC part:
 
 ### Sensor signal isolation
 
-Sensor signals are amplifier through a TL082H (not practical in the real world because of the high Vos, you want Vos<100uV if possible). The signal is read by a RV1S9353A from Renasas.
+Sensor signals are amplifier through a TL082H (not practical in the real world because of the high Vos, you want Vos<100uV if possible). The signal is read by a RV1S9353A from Renesas.
 
 ![image](https://user-images.githubusercontent.com/49677912/227743113-4e1a8014-fca3-4c39-b6d4-6a0e95e7fdf3.png)
